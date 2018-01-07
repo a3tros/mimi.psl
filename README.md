@@ -1,0 +1,2 @@
+# mimi.psl
+Invoke-Mimikatz
